@@ -1,3 +1,4 @@
+setup.cfg
 setup.py
 pyngus.egg-info/PKG-INFO
 pyngus.egg-info/SOURCES.txt

@@ -1,0 +1,23 @@
+Source: pyngus
+Section: python
+Priority: extra
+Maintainer: Debian Middleware Maintainers <pkg-middleware-maintainers@lists.alioth.debian.org>
+Uploaders: Darryl L. Pierce <mcpierce@gmail.com>, Daniel Pocock <daniel@pocock.pro>
+Build-Depends: debhelper (>= 9.0.0~),
+               python,
+               python-setuptools
+X-Python-Version: >= 2.6
+Standards-Version: 3.9.5
+Homepage: http://qpid.apache.org/
+
+Package: pyngus
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends}, python-qpid-proton
+Description: Callback API implemented over Proton
+ This framework is meant to ease the integration of AMQP 1.0 messaging into
+ applications that use a callback-based logic flow. It provides a very
+ basic, connection-oriented messaging model that should meet the needs of
+ most applications.
+ .
+ This package contains the Python modules for Pyngus.
+

@@ -1,0 +1,17 @@
+pyngus (1.2.0-2qpid+trusty1) trusty; urgency=medium
+
+  * Bumped the release to push to the new Qpid testing PPA. 
+
+ -- Darryl Pierce <dpierce@redhat.com>  Thu, 11 Jun 2015 16:10:54 -0400
+
+pyngus (1.2.0-1trusty+mcpierce1) trusty; urgency=medium
+
+  * Rebased on Pyngus 1.2.0.
+
+ -- Darryl L. Pierce <mcpierce@gmail.com>  Tue, 18 Nov 2014 10:29:07 -0500
+
+pyngus (1.1.0-1trusty+mcpierce1) trusty; urgency=medium
+
+  * Initial release. (Closes: #762970)
+
+ -- Darryl L. Pierce <mcpierce@gmail.com>  Fri, 26 Sep 2014 07:40:41 -0400
