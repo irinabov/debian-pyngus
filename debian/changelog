@@ -1,4 +1,4 @@
-pyngus (2.0.3-1qpid+wily1) wily; urgency=medium
+pyngus (2.0.3-1qpid+trusty1) trusty; urgency=medium
 
   * Bumped the release to push to the new Qpid testing PPA.
 
