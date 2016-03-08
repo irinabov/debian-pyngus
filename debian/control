@@ -7,12 +7,12 @@ Build-Depends: debhelper (>= 9.0.0~),
                python,
                python-setuptools
 X-Python-Version: >= 2.6
-Standards-Version: 3.9.5
+Standards-Version: 3.9.6
 Homepage: http://qpid.apache.org/
 
 Package: pyngus
 Architecture: all
-Depends: ${misc:Depends}, ${python:Depends}, python-qpid-proton
+Depends: ${misc:Depends}, ${python:Depends}, python-qpid-proton (>= 0.12.0)
 Description: Callback API implemented over Proton
  This framework is meant to ease the integration of AMQP 1.0 messaging into
  applications that use a callback-based logic flow. It provides a very

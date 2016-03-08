@@ -1,3 +1,9 @@
+pyngus (2.0.3-2qpid+trusty1) trusty; urgency=medium
+
+  * Rebuilt for proton 0.12.0.
+
+ -- Irina Boverman <iboverma@redhat.com>  Tue, 8 Mar 2016 16:39:54 -0400
+
 pyngus (2.0.3-1qpid+trusty1) trusty; urgency=medium
 
   * Bumped the release to push to the new Qpid testing PPA.
