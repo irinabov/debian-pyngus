@@ -1,4 +1,4 @@
-pyngus (2.0.3-2qpid+wily1) wily; urgency=medium
+pyngus (2.0.3-3qpid+wily1) wily; urgency=medium
 
   * Rebuilt against proton 0.12.0.
 
