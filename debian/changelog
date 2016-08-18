@@ -1,3 +1,10 @@
+pyngus (2.0.4-1qpid+trusty1) trusty; urgency=medium
+
+  * Rebased to 2.0.4
+  * Rebuilt for proton 0.13.1.
+
+ -- Irina Boverman <iboverma@redhat.com>  Thu, 18 Aug 2016 14:41:08 -0400
+
 pyngus (2.0.3-2qpid+trusty1) trusty; urgency=medium
 
   * Rebuilt for proton 0.12.0.
